@@ -1,5 +1,5 @@
 # LXCore
-[Official LXCore Documentation](https://lincon.gitbook.io/lxcore/)
+[Official LXCore Documentation](https://lincon.gitbook.io/lxcore-framework/)
 
 # License
 
