@@ -1,5 +1,5 @@
-# LXCore
-[Official LXCore Documentation](https://lincon.gitbook.io/lxcore-framework/)
+# LT MDT
+[LT-MDT Documentation](https://lincon.gitbook.io/ltmdt/)
 
 # License
 
