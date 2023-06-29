@@ -7,7 +7,7 @@ author 'Lincon#0651'
 description 'LT-MDT ESX Version'
 
 lua54 'yes'
-version '0.0.1a'
+version '0.95b'
 
 ui_page 'ui/index.html'
 
@@ -28,9 +28,4 @@ server_scripts {
     '@oxmysql/lib/MySQL.lua',
     'config.lua',
     'server/*.lua'
-}
-
-dependencies {
-	'oxmysql',
-    'es_extended'
 }
