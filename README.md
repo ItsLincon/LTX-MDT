@@ -1,10 +1,10 @@
 # LTX-MDT
-[LT-MDT Documentation](https://lincon.gitbook.io/ltmdt/)
+[LTX-MDT Documentation](https://lincon.gitbook.io/ltmdt/)
 
 # License
 
 ```
-LT-MTD Copyright (C) 2022 ItsLincon
+LTX-MTD Copyright (C) 2023 ItsLincon
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
