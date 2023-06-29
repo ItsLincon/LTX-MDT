@@ -1,4 +1,4 @@
-# LT MDT
+# LTX-MDT
 [LT-MDT Documentation](https://lincon.gitbook.io/ltmdt/)
 
 # License
