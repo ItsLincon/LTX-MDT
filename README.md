@@ -1,7 +1,8 @@
 # LTX-MDT
-[LTX-MDT Documentation](https://ltx-scripts.gitbook.io/ltx-mdt/)
-
-![Watermark](https://i.imgur.com/yq4np3z.jpg)
+<p align="center">
+  <img width=100% src="https://i.imgur.com/yq4np3z.jpg" alt="">
+<a href="https://ltx-scripts.gitbook.io/ltx-mdt">LTX-MDT Documentation</a>
+</p>
 
 # License
 
