@@ -2,7 +2,7 @@ if GetResourceState('qb-core') ~= 'started' then return end
 
 QBCore = exports['qb-core']:GetCoreObject()
 
-PlayerData = QBCORE.Functions.GetPlayerData()
+PlayerData = QBCore.Functions.GetPlayerData()
 
 if PlayerData.job ~= nil then
 	PlayerData.job.grade = PlayerData.job.grade.level
@@ -14,7 +14,7 @@ end
 
 RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
 	Wait(1500)
-	PlayerData = QBCORE.Functions.GetPlayerData()
+	PlayerData = QBCore.Functions.GetPlayerData()
 
 	if PlayerData.job ~= nil then
 		PlayerData.job.grade = PlayerData.job.grade.level

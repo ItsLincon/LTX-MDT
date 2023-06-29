@@ -3,7 +3,7 @@ if GetResourceState('qb-core') ~= 'started' then return end
 QBCore = exports.qb-core:GetCoreObject()
 
 GetPlayerFromId = function(src)
-	local xPlayer = QBCORE.Functions.GetPlayer(src)
+	local xPlayer = QBCore.Functions.GetPlayer(src)
 	if not xPlayer then return end
 	
 	if xPlayer.identifier == nil then
