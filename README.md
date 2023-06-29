@@ -1,6 +1,8 @@
 # LTX-MDT
 [LTX-MDT Documentation](https://lincon.gitbook.io/ltmdt/)
 
+![Watermark](https://i.imgur.com/4Vxgp2B.jpg)
+
 # License
 
 ```
